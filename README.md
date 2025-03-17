@@ -116,7 +116,7 @@ Constants for Hijri months (0-based):
 > **IMPORTANT:**  
 > `npm run test` yields 1 failed test (as of 17th Mar 2025): 
 
-![npm run test](https://imgur.com/a/quStasF)
+![npm run test](https://i.imgur.com/XTEDl6j.png)
 > Any contributions appreciated 🙏🏻🙇🏻
 
 ## License

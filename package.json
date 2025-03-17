@@ -1,6 +1,6 @@
 {
   "name": "hijrah-date-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript definitions and implementation for hijrah-date",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
